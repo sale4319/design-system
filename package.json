@@ -1,7 +1,7 @@
 {
   "name": "@sale4319/design-system",
   "description": "Design system simulation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "repository": "https://github.com/sale4319/design-system.git",

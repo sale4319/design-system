@@ -6,8 +6,7 @@ import * as global from './shared/global';
 export { styles, animation, icons, global };
 
 export * from './Avatar';
-export * from './Badge';
-export * from './Button';
 export * from './Icon';
-export * from './Link';
-export * from './LinkWrapper';
+export * from './stories/Button';
+export * from './stories/Header';
+export * from './stories/Page';

@@ -7,6 +7,6 @@ export { styles, animation, icons, global };
 
 export * from './Avatar';
 export * from './Icon';
-export * from './stories/Button';
+export * from './stories/buttons/Button';
 export * from './stories/Header';
 export * from './stories/Page';
